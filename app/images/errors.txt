@@ -1,0 +1,4 @@
+[Mon Oct 10 2016 11:26:35 GMT+0200 (SAST)] layer "FACEBOOK INSTAGRAM TWITTER GOOGLE+": Expected end of input but "+" found.
+[Mon Oct 10 2016 11:26:35 GMT+0200 (SAST)] layer "FACEBOOK INSTAGRAM TWITTER GOOGLE+": Expected end of input but "+" found.
+[Mon Oct 10 2016 11:26:35 GMT+0200 (SAST)] layer "FACEBOOK INSTAGRAM TWITTER GOOGLE+": Expected end of input but "+" found.
+[Mon Oct 10 2016 11:26:35 GMT+0200 (SAST)] layer "logo.jpg80": Invalid quality: 800
