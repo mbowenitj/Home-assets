@@ -32,7 +32,7 @@ p {
     width: 100%;
     background-color: saddlebrown;
 }
-.food-container {
+.main-container {
     width: 93%;
     margin: 0 auto;
     padding-top: 30px;
@@ -54,12 +54,16 @@ p {
     }
     .full-menu-link {
         text-align: center;
+        font-size: 15px;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        line-height: 34px;
         a {
             color: salmon;
         }
     }
     hr {
-        border-top: 2px solid #ccc;
+        border-top: 2px #ccc;
+        border-style:dashed;
     }
     .inside-the-kitchen,
     .our-story {
@@ -103,7 +107,7 @@ p {
     height: auto;
     text-align: center;
     .quick-links {
-        font-size: 18px;
+        font-size: 15px;
     }
     ul {
         list-style: none;
@@ -118,3 +122,6 @@ p {
     font-size: 12px;
     padding-left: 25px;
 }
+
+// @media screen and (min-width: 1024px) {
+// }

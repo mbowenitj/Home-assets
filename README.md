@@ -1,3 +1,11 @@
 # Home-assets
 
-This is a simple home page displaying food and drinks
+Home page showing food and drinks
+
+================================================================================
+Steps to get started
+================================================================================
+
+1. git clone project
+2. npm && bower install
+3. gulp serve
