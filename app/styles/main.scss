@@ -94,6 +94,14 @@ p {
     }
     .first-row-menu {
         padding-top: 12px;
+        img{
+          width:310px;
+        }
+    }
+    .second-row-menu{
+      img{
+        width: 310px;
+      }
     }
     .menu-details {
         color: $black;
@@ -102,7 +110,7 @@ p {
         font-weight: bolder;
     }
 }
-.footer {
+.footer-menu {
     background-image: url("/images/footer-bg.png");
     height: auto;
     text-align: center;
@@ -116,11 +124,13 @@ p {
         }
     }
 }
-.copyright-footer {
+footer {
     background-color: $black;
     color: white;
     font-size: 12px;
     padding-left: 25px;
+    height: 30px;
+    padding-top: 5px;
 }
 
 // @media screen and (min-width: 1024px) {
