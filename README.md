@@ -1,5 +1,3 @@
-# Home-assets
-
 Home page showing food and drinks
 
 Steps to get started
